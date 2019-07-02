@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LeftPane.qml</file>
+        <file>icon.png</file>
+        <file>BatteryFigure.qml</file>
+        <file>DataItem.qml</file>
+        <file>MiddlePane.qml</file>
+        <file>RightPane.qml</file>
+        <file>StopButton.qml</file>
+        <file>SwitchToggle.qml</file>
+    </qresource>
+</RCC>
